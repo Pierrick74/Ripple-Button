@@ -7,6 +7,9 @@ Personnalisation complète (couleurs, texte, action)
 Design minimaliste avec coins arrondis
 
 ## Capture d'écran
+<p align="center">
+  <img src="Image/RippleButtonImage.gif" width="300" alt="RippleButton Demo">
+</p>
 
 ## Installation
 Le composant est autonome et ne nécessite aucune dépendance externe. Copiez simplement le fichier RippleButton.swift dans votre projet.
